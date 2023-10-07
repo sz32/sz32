@@ -6,7 +6,7 @@ A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 
 
 ## 🔭 I’m currently working on...
 
-#### 📝 [Converto](https://github.com/sz32/Notate) (Kotlin)
+#### 📝 [Notate](https://github.com/sz32/Notate) (Kotlin)
 A open source project exploring Jetpack Compose based on Kotlin and other new libraries.
 - MVVM with clean architecture
 - Jetpack Compose (for UI)
