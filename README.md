@@ -1,10 +1,20 @@
 ## Hi there 👋, I'm Zeel Solanki
 
-A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 4+ years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects, please visit my [website](https://sz32.github.io/).
+A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects, please visit my [website](https://sz32.github.io/).
 
 <br>
 
 ## 🔭 I’m currently working on...
+
+#### 📝 [SpotSaver](https://github.com/sz32/SpotSaver) (Kotlin)
+A utility app for saving and navigating locations. Features include requesting fine location permission, saving multiple locations with tags, navigating to saved spots via Maps, auto-delete options (e.g., 5 hrs, 1 week), and the ability to add a reference snap for each spot
+- MVVM with clean architecture
+- Jetpack Compose (for UI)
+- Retrofit
+- Hilt (for dependency injection)
+- Room Database
+- Unit testing
+
 
 #### 📝 [Notate](https://github.com/sz32/Notate) (Kotlin)
 A open source project exploring Jetpack Compose based on Kotlin and other new libraries.
