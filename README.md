@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Zeel Solanki
 
-A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects, please visit my [website](https://sz32.github.io/).
+A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.
+
+please visit my [website](https://sz32.github.io/).
 
 <br>
 
@@ -14,6 +16,7 @@ A utility app for saving and navigating locations. Features include requesting f
 - Hilt (for dependency injection)
 - Room Database
 - Unit testing
+
 
 
 #### 📝 [Notate](https://github.com/sz32/Notate) (Kotlin)
