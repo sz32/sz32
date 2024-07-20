@@ -10,6 +10,7 @@ please visit my [website](https://sz32.github.io/).
 
 #### 📝 [SpotSaver](https://github.com/sz32/SpotSaver) (Kotlin)
 A utility app for saving and navigating locations. Features include requesting fine location permission, saving multiple locations with tags, navigating to saved spots via Maps, auto-delete options (e.g., 5 hrs, 1 week), and the ability to add a reference snap for each spot
+- Kotlin Multiplatform
 - MVVM with clean architecture
 - Jetpack Compose (for UI)
 - Retrofit
