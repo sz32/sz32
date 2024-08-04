@@ -31,6 +31,13 @@ A open source project exploring Jetpack Compose based on Kotlin and other new li
 
 <br>
 
+## Recently published medium articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/0" width="80%" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/1" width="80%" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/2" width="80%" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/3" width="80%" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@solankizeel91/4" width="80%" alt="Recent Article 4"> 
+
 ## 📫 Social links:
 <a href="https://www.linkedin.com/in/sz32/">
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/linkedin.png"/> 
