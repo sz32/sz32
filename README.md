@@ -56,6 +56,9 @@ A open source project exploring Jetpack Compose based on Kotlin and other new li
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/linkedin.png"/> 
 </a>
 <a href="https://medium.com/@solankizeel91">
+  <img width="60" height="60" src="https://img.icons8.com/color/100/000000/medium.png"/> 
+</a>
+<a href="https://stackoverflow.com/users/10098839/solanki-zeel">
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/stackoverflow.png"/> 
 </a>
 
