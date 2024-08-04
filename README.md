@@ -1,8 +1,18 @@
-## Hi there 👋, I'm Zeel Solanki
+<h1 align="center">Hi 👋, I'm Zeel Solanki</h1>
+<h3 align="center">A passionate Android developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.</h3>
 
-A passionate Android (Kotlin & JAVA) developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.
+- 🔭 I’m currently working on [Spot Saver](https://github.com/sz32/SpotSaver)
 
-please visit my [website](https://sz32.github.io/).
+- 🌱 I’m currently learning **KMP**
+
+- 👨‍💻 All of my projects are available at [sz32.github.io](sz32.github.io)
+
+- 📝 I write articles on [https://medium.com/@solankizeel91](https://medium.com/@solankizeel91)
+
+- 📫 How to reach me **solankizeel91@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/12m1BDvnnr5k2OS9cbnVw-SthiXlbRDK4/view](https://drive.google.com/file/d/12m1BDvnnr5k2OS9cbnVw-SthiXlbRDK4/view)
+
 
 <br>
 
@@ -43,11 +53,13 @@ A open source project exploring Jetpack Compose based on Kotlin and other new li
   <img width="60" height="60" src="https://img.icons8.com/color/100/000000/linkedin.png"/> 
 </a>
 <a href="https://medium.com/@solankizeel91">
-  <img width="60" height="60" src="https://img.icons8.com/color/100/000000/medium.png"/> 
+  <img width="60" height="60" src="https://img.icons8.com/color/100/000000/stackoverflow.png"/> 
 </a>
 
 <br>
-<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <details>
   <summary><b>📈 See Stats</b></summary>
