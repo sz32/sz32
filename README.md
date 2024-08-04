@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Spot Saver](https://github.com/sz32/SpotSaver)
 
+- 👯 I’m looking to collaborate on [Notate](https://github.com/sz32/Notate)
+
 - 🌱 I’m currently learning **KMP**
 
 - 👨‍💻 All of my projects are available at [sz32.github.io](sz32.github.io)
@@ -29,6 +31,7 @@ A utility app for saving and navigating locations. Features include requesting f
 - Unit testing
 
 
+## 👯 I’m looking to collaborate on...
 
 #### 📝 [Notate](https://github.com/sz32/Notate) (Kotlin)
 A open source project exploring Jetpack Compose based on Kotlin and other new libraries.
