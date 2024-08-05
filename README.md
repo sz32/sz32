@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **KMP**
 
-- 👨‍💻 All of my projects are available at [sz32.github.io](sz32.github.io)
+- 👨‍💻 All of my projects are available at [sz32.github.io](https://sz32.github.io/)
 
 - 📝 I write articles on [https://medium.com/@solankizeel91](https://medium.com/@solankizeel91)
 
