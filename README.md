@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeel Solanki</h1>
 <h3 align="center">A passionate Android developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.</h3>
 
-- 🔭 I’m currently working on [Spot Saver](https://github.com/sz32/Aitinerary)
+- 🔭 I’m currently working on [Aitinerary](https://github.com/sz32/Aitinerary)
 
 - 👯 I’m looking to collaborate on [Notate](https://github.com/sz32/Notate)
 
