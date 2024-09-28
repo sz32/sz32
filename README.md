@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeel Solanki</h1>
 <h3 align="center">A passionate Android developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.</h3>
 
-- 🔭 I’m currently working on [Spot Saver](https://github.com/sz32/SpotSaver)
+- 🔭 I’m currently working on [Spot Saver](https://github.com/sz32/Aitinerary)
 
 - 👯 I’m looking to collaborate on [Notate](https://github.com/sz32/Notate)
 
@@ -19,6 +19,12 @@
 <br>
 
 ## 🔭 I’m currently working on...
+
+### [Aitinerary](https://github.com/sz32/Aitinerary) (Kotlin KMP)
+This app helps users create and manage travel itineraries, explore destinations, and plan day-to-day activities for their trips. Whether you're heading out on a short vacation or a long journey, this app provides all the tools you need to organize your travels effectively.
+- Kotlin
+- Jetpack compose for multiplatform
+
 
 #### 📝 [SpotSaver](https://github.com/sz32/SpotSaver) (Kotlin)
 A utility app for saving and navigating locations. Features include requesting fine location permission, saving multiple locations with tags, navigating to saved spots via Maps, auto-delete options (e.g., 5 hrs, 1 week), and the ability to add a reference snap for each spot
