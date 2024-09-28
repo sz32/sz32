@@ -1,7 +1,5 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-
-<h1 align="center">Hi 👋, I'm Zeel Solanki</h1>
-<h3 align="center">A passionate Android developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.</h3>
+<h1 align="start">Hi 👋, I'm Zeel Solanki</h1>
+<h3 align="start">A passionate Android developer. Learning and evolving from last 5 years and really enjoying the way it is going. Worked on large scale apps ranging from 1M to 5M+ users. For more details about my work and projects.</h3>
 
 - 🔭 I’m currently working on [Aitinerary](https://github.com/sz32/Aitinerary)
 
@@ -137,12 +135,15 @@ A open source project exploring Jetpack Compose based on Kotlin and other new li
 </div>
 
 <details>
-  <summary><b>📈 See Stats</b></summary>
-  <p> 
-    <div>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sz32&show_icons=true&theme=outrun" alt="Zeel Solanki | Github stats">
-      <img width="45%"src="http://github-readme-streak-stats.herokuapp.com?user=sz32&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Zeel Solanki | Github streaks" />
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sz32&show_icons=true&locale=en&layout=compact&theme=outrun" alt="Zeel Solanki | Most used Languages">
-    </div>
-  </p>
+  <summary><b>📈 See Stats</b></summary>    
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sz32&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sz32&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sz32&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sz32&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sz32)
+![Profile Views](https://komarev.com/ghpvc/?username=sz32&color=blueviolet)
+
 </details>
+
+
