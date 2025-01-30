@@ -48,7 +48,7 @@ An open-source Jetpack Compose project for note-taking, showcasing clean archite
 ## 💼 Professional Links
 
 - **Email**: solankizeel91@gmail.com
-- **Resume**: [View my Resume](https://drive.google.com/file/d/12m1BDvnnr5k2OS9cbnVw-SthiXlbRDK4/view)
+- **Resume**: [View my Resume](https://drive.google.com/file/d/1uJTrqMAfZRBgvO_S7mXZodQs6lXtPcO0/view?usp=sharing)
 - **LinkedIn**: [Zeel Solanki](https://www.linkedin.com/in/sz32/)
 - **Medium**: [solankizeel91](https://medium.com/@solankizeel91)
 - **Stack Overflow**: [solanki-zeel](https://stackoverflow.com/users/10098839/solanki-zeel)
